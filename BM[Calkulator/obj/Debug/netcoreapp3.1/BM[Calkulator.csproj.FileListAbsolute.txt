@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\BM[Calkulator\BM[Calkulator\bin\Debug\netcoreapp3.1\BM[Calkulator.exe
+C:\Users\opilane\source\repos\BM[Calkulator\BM[Calkulator\bin\Debug\netcoreapp3.1\BM[Calkulator.deps.json
+C:\Users\opilane\source\repos\BM[Calkulator\BM[Calkulator\bin\Debug\netcoreapp3.1\BM[Calkulator.runtimeconfig.json
+C:\Users\opilane\source\repos\BM[Calkulator\BM[Calkulator\bin\Debug\netcoreapp3.1\BM[Calkulator.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\BM[Calkulator\BM[Calkulator\bin\Debug\netcoreapp3.1\BM[Calkulator.dll
+C:\Users\opilane\source\repos\BM[Calkulator\BM[Calkulator\bin\Debug\netcoreapp3.1\BM[Calkulator.pdb
+C:\Users\opilane\source\repos\BM[Calkulator\BM[Calkulator\obj\Debug\netcoreapp3.1\BM[Calkulator.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\BM[Calkulator\BM[Calkulator\obj\Debug\netcoreapp3.1\BM[Calkulator.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\BM[Calkulator\BM[Calkulator\obj\Debug\netcoreapp3.1\BM[Calkulator.AssemblyInfo.cs
+C:\Users\opilane\source\repos\BM[Calkulator\BM[Calkulator\obj\Debug\netcoreapp3.1\BM[Calkulator.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\BM[Calkulator\BM[Calkulator\obj\Debug\netcoreapp3.1\BM[Calkulator.dll
+C:\Users\opilane\source\repos\BM[Calkulator\BM[Calkulator\obj\Debug\netcoreapp3.1\BM[Calkulator.pdb
+C:\Users\opilane\source\repos\BM[Calkulator\BM[Calkulator\obj\Debug\netcoreapp3.1\BM[Calkulator.genruntimeconfig.cache
